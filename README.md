@@ -1,8 +1,4 @@
-Certainly! Here's an updated version of the README.md file that includes instructions for all the code provided in this chat:
-
----
-
-# Machine Learning and Data Analysis with R in Python (via rpy2)
+# Machine Learning and Data Analysis with R in Python (Author: Matan Carmon)
 
 This repository contains Python code that leverages R's machine learning capabilities, statistical analysis, and visualization techniques through the `rpy2` package. `rpy2` allows seamless integration between Python and R, enabling you to utilize R's extensive ecosystem of packages for various tasks within Python scripts.
 
